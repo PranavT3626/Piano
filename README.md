@@ -1,5 +1,5 @@
 # JavaScript Piano
-![Piano Visual Mode](images/piano-visual-mode.png)
+![Piano Visual Mode](piano-visual-mode.png)
 A synth piano application that generates all of its audio files dynamically using JavaScript and data URIs. This project is built solely using HTML, CSS, and JavaScript, providing a unique and interactive musical experience.
 
 ## Table of Contents
