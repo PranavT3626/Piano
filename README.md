@@ -2,6 +2,8 @@
 ![Piano Visual Mode](piano-visual-mode.png)
 A synth piano application that generates all of its audio files dynamically using JavaScript and data URIs. This project is built solely using HTML, CSS, and JavaScript, providing a unique and interactive musical experience.
 
+**[Visit the Project](https://pranavt3626.github.io/Piano/)**
+
 ## Table of Contents
 
 - [Features](#features)
@@ -25,6 +27,7 @@ A synth piano application that generates all of its audio files dynamically usin
 1. Clone the repository:
    ```bash
    git clone https://github.com/PranavT3626/javascript-piano.git
+
 ## Usage
 
 ### Controls
